@@ -1,0 +1,5 @@
+{
+  "name": "IDOS Deep Research AI",
+  "description": "A specialized deep research assistant for the IDOS Network, powered by Google Gemini with real-time search grounding.",
+  "requestFramePermissions": []
+}
